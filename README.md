@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**NT106Group8/NT106Group8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# NT106 - Lập trình mạng căn bản
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### NT106.P12 - Group 8
+#
+
+|Thành viên   |	MSSV	  |        |
+|-------------|---------|--------|
+|Lâm Chí Dĩnh |	23520291|[Email](mailto:23520291@gm.uit.edu.vn)|
+|Đỗ Gia Hân	  | 23520425|[Email](mailto:23520425@gm.uit.edu.vn)|
+|Đặng Minh Dzũ|	23520404|[Email](mailto:23520425@gm.uit.edu.vn)|
+
+
